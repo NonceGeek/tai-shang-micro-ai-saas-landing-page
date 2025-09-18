@@ -1,0 +1,126 @@
+{
+  "navigation": {
+    "home": "Home",
+    "searchEngine": "Corpus Search Engine",
+    "library": "Corpus Library",
+    "appStore": "App Store",
+    "docs": "API Docs",
+    "projectBoard": "Discussion Board"
+  },
+  "hero": {
+    "title": "DIMSUM AI Labs",
+    "subtitle": "AI-Friendly Cantonese Corpus System and AI Agent System Serving Real-World Environments",
+    "description": "Compatible with Lingnan culture, compatible with AI technology,\nBuilding a complete system integrating \"Cantonese datasets — Large Language Models — AI Agents — Innovative applications\".",
+    "description_2": "Four key features:\n* **AI-Friendly** — Equipped with interfaces for connecting with large and small models\n* **AI Agent Friendly** — Equipped with interfaces for connecting with AI Agents\n* **Hot-swappable Modules** — The system can dynamically add new capabilities, such as integrating \"blockchain rights confirmation modules\"\n* **Community Mode** — Adhering to the mode of co-construction between core team and technical community, jointly building the main system, corpus, Cantonese Apps and module library",
+    "description_3": "Four major research directions of the laboratory:\n* **Cantonese Cultural Spiritual Identity System Research**\n* **General Cantonese Corpus Construction**\n* **Large Model Cantonese Language Interaction Quality Assessment**\n* **Large Model Cantonese Language Interaction Quality Improvement**",
+    "getStarted": "Who are our target users?",
+    "scrollIndicator": "Scroll to explore"
+  },
+  "whyWeAreHere": {
+    "title": "Who Are Our Target Users?",
+    "description": "* **Cantonese Enthusiasts** — Search Cantonese-related data and use Cantonese-related applications\n* **Cantonese Learners** — Master Cantonese with AI assistance, based on abundant high-quality Cantonese materials and related applications\n* **Cantonese Researchers** — Obtain high-quality Cantonese data and materials, use related research tools\n* **Corpus Contributing Institutions** — Provide Cantonese corpus sets, maximize data value\n* **Individual Corpus Contributors** — Participate in corpus annotation and provision contributions, earn corresponding rewards, co-build Cantonese enthusiast ecosystem\n* **Developers** — Participate in building Cantonese-related infrastructure and innovative applications, submit applications to app store, co-build developer ecosystem",
+    "speakers": "85 million people worldwide",
+    "period": "."
+  },
+  "features": {
+    "title": "Critical Propositions",
+    "subtitle": "Dim Sum AI Lab is deeply dedicated to exploring a series of critical propositions.",
+    "items": {
+      "corpus": {
+        "title": "Corpus Development",
+        "description": "How to develop annotation standards to efficiently build a large-scale Autonomous Multimodal Cantonese Corpus?"
+      },
+      "ecosystem": {
+        "title": "Application Ecosystem",
+        "description": "How to design an access mechanism to create the Yue App Store and a versatile Cantonese application ecosystem based on the Cantonese corpus?"
+      },
+      "search": {
+        "title": "Search Engine Innovation",
+        "description": "How to improve search algorithms to develop a next-generation AI-friendly search engine based on the Cantonese corpus?"
+      },
+      "saas": {
+        "title": "AI SaaS Framework",
+        "description": "How to innovate service models to create a next-generation AI SaaS framework based on the Cantonese corpus?"
+      },
+      "community": {
+        "title": "Community Building",
+        "description": "How to foster an open-source community to build a next-generation global community of builders and researchers (DAO for Builders & Researchers) around the Cantonese corpus?"
+      }
+    }
+  },
+  "architecture": {
+    "title": "System Architecture",
+    "subtitle": "A comprehensive four-layer architecture designed for scalable Cantonese AI development",
+    "layers": {
+      "application": {
+        "name": "Application Layer",
+        "subtitle": "User-Facing Solutions",
+        "description": "End-user applications and intelligent agents",
+        "items": ["Cantonese AI Agents", "Cantonese Apps", "Cantonese Tools"]
+      },
+      "api": {
+        "name": "API Gateway",
+        "subtitle": "Integration Interfaces",
+        "description": "Standardized interfaces for developers",
+        "items": ["REST APIs", "GraphQL APIs", "WebSocket APIs"]
+      },
+      "core": {
+        "name": "Core Services",
+        "subtitle": "AI Infrastructure",
+        "description": "Core AI and service infrastructure",
+        "items": ["AI Search Engines", "AI SaaS Framework", "App Extension", "LLMs"]
+      },
+      "data": {
+        "name": "Data Foundation",
+        "subtitle": "Knowledge Base",
+        "description": "Data foundation and annotation infrastructure",
+        "items": ["Multimodal Data Repository", "Hybrid Annotation System"]
+      }
+    }
+  },
+  "quickLinks": {
+    "title": "Quick Access",
+    "subtitle": "Direct access to our core Cantonese AI resources and services",
+    "items": {
+      "data": {
+        "title": "Cantonese Data",
+        "description": "Access our comprehensive Cantonese corpus with advanced data processing capabilities",
+        "button": "Learn More"
+      },
+      "store": {
+        "title": "App Store",
+        "description": "Explore a diverse ecosystem of Cantonese applications built on our corpus",
+        "button": "Learn More"
+      },
+      "apis": {
+        "title": "APIs",
+        "description": "Integrate Cantonese AI capabilities into your applications with our comprehensive API suite",
+        "button": "Learn More"
+      }
+    }
+  },
+  "footer": {
+    "company": "DIMSUM AI Labs",
+    "description": "Advancing AI research and development in natural language processing, with a focus on Chinese dialect studies and computational linguistics.",
+    "partners": "Partners",
+    "copyright": "© 2025 DIMSUM AI Labs. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "wechat": {
+      "title": "Media",
+      "description": "Follow our WeChat Public Account for the latest news and updates.",
+      "button": "WeChat Public Account",
+      "modal": {
+        "title": "AI Dim Sum Lab 公众号",
+        "description": "Scan QR code to follow for latest updates"
+      }
+    }
+  },
+  "language": {
+    "switch": "Language",
+    "en": "English",
+    "zh": "中文",
+    "yue": "粵語"
+  }
+} 

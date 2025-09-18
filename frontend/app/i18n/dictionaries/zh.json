@@ -1,0 +1,127 @@
+{
+  "navigation": {
+    "home": "首页",
+    "searchEngine": "语料搜索引擎",
+    "library": "语料图书馆",
+    "appStore": "应用商店",
+    "docs": "接口文档",
+    "projectBoard": "讨论区"
+  },
+  "hero": {
+    "title": "DIMSUM AI 实验室",
+    "subtitle": "AI 友好的粤语语料库系统 & 服务真实环境的 AI Agent 系统",
+    "description": "兼容岭南文化，兼容 AI 科技，\n构建「粤语数据集 — 大语言模型 — AI Agent — 创新应用」为一体的完整体系。",
+    "description_4": "在 AI 叙事的时代背景下，将分散在不同机构与个人下的粤语数据进行归集，从而构建「粤语数据集 — 大语言模型 — AI Agent — 创新应用」为一体的完整体系。",
+    "description_3": "四大特性：\n* **AI 友好** — 具备和大模型与小模型对接的接口\n* **AI Agent 友好** — 具备和 AI Agents 对接的接口\n* **模块热插拔** — 系统可以动态加入新的能力，例如接入「区块链确权模块」\n* **社区模式** — 坚持核心团队与技术社区共建的模式，共同打造主系统、语料集、粤语 Apps 与模块库",
+    "description_2": "实验室四大研究方向：\n* **粤语文化精神标识体系研究**\n* **通用粤语语料库建设**\n* **大模型粤语言语交互质量评测**\n* **大模型粤语言语交互质量提升**",
+    "getStarted": "面向哪些用户？",
+    "scrollIndicator": "滚动探索"
+  },
+  "whyWeAreHere": {
+    "title": "系统面向哪些用户？",
+    "description": "* **粤语爱好者** — 搜索粤语相关数据与使用粤语相关应用\n* **粤语学习者** — 借助 AI，在大量高质量粤语资料和相关应用的基础上掌握粤语\n* **粤语研究者** — 获取高质量粤语数据与资料，使用相关研究工具\n* **语料贡献机构** — 提供粤语语料集，实现数据价值最大化\n* **语料贡献个体** — 参与语料标注与语料提供的贡献，获得相应收益，共建粤语爱好者生态\n* **开发者** — 参与粤语相关的基础设施和创新应用的建设，提交应用到应用商店，共建开发者生态",
+    "speakers": "8500万人使用",
+    "period": "。"
+  },
+  "features": {
+    "title": "核心命题",
+    "subtitle": "Dim Sum AI 实验室致力于探索一系列关键命题。",
+    "items": {
+      "corpus": {
+        "title": "语料库开发",
+        "description": "如何制定标注标准，高效构建大规模自主多模态粤语语料库？"
+      },
+      "ecosystem": {
+        "title": "应用生态系统",
+        "description": "如何设计访问机制，基于粤语语料库创建粤语应用商店和多元化粤语应用生态系统？"
+      },
+      "search": {
+        "title": "搜索引擎创新",
+        "description": "如何改进搜索算法，基于粤语语料库开发下一代AI友好的搜索引擎？"
+      },
+      "saas": {
+        "title": "AI SaaS框架",
+        "description": "如何创新服务模式，基于粤语语料库创建下一代AI SaaS框架？"
+      },
+      "community": {
+        "title": "社区建设",
+        "description": "如何培育开源社区，围绕粤语语料库建设下一代全球建设者和研究者社区（建设者与研究者DAO）？"
+      }
+    }
+  },
+  "architecture": {
+    "title": "系统架构",
+    "subtitle": "专为可扩展粤语AI开发设计的四层综合架构",
+    "layers": {
+      "application": {
+        "name": "应用层",
+        "subtitle": "面向用户的解决方案",
+        "description": "终端用户应用和智能代理",
+        "items": ["AI Agents", "粤语应用", "粤语工具", "小程序", "浏览器插件"]
+      },
+      "api": {
+        "name": "API网关",
+        "subtitle": "集成接口",
+        "description": "开发者的标准化接口",
+        "items": ["REST APIs", "GraphQL APIs", "自然语言接口"]
+      },
+      "core": {
+        "name": "核心服务",
+        "subtitle": "AI基础设施",
+        "description": "核心AI和服务基础设施",
+        "items": ["AI搜索引擎", "AI SaaS框架", "AI Agent 系统", "插件系统"]
+      },
+      "data": {
+        "name": "数据基础",
+        "subtitle": "知识库",
+        "description": "数据基础和标注基础设施",
+        "items": ["多模态数据仓库", "混合标注系统"]
+      }
+    }
+  },
+  "quickLinks": {
+    "title": "快速访问",
+    "subtitle": "直接访问我们的核心粤语AI资源和服务",
+    "items": {
+      "data": {
+        "title": "粤语数据",
+        "description": "访问我们具有高级数据处理功能的综合粤语语料库",
+        "button": "了解更多"
+      },
+      "store": {
+        "title": "应用商店",
+        "description": "探索基于我们语料库构建的多元化粤语应用生态系统",
+        "button": "了解更多"
+      },
+      "apis": {
+        "title": "API接口",
+        "description": "通过我们全面的API套件将粤语AI功能集成到您的应用中",
+        "button": "了解更多"
+      }
+    }
+  },
+  "footer": {
+    "company": "DIMSUM AI 实验室",
+    "description": "Buidl the c00lest Cantonese Corpus System!",
+    "partners": "合作伙伴",
+    "copyright": "© 2025 DIMSUM AI 实验室。保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 政策",
+    "wechat": {
+      "title": "媒体",
+      "description": "关注我们的微信公众号，获取最新资讯和更新。",
+      "button": "微信公众号",
+      "modal": {
+        "title": "AI Dim Sum Lab 公众号",
+        "description": "扫码关注，获取最新资讯"
+      }
+    }
+  },
+  "language": {
+    "switch": "语言",
+    "en": "English",
+    "zh": "中文",
+    "yue": "粵語"
+  }
+} 
